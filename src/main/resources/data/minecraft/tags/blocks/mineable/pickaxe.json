@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "modtest:cobalt_block",
+    "modtest:raw_cobalt_block",
+    "modtest:cobalt_ore",
+    "modtest:deepslate_cobalt_ore"
+  ]
+}

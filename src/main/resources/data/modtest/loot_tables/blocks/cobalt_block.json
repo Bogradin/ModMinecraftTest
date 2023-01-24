@@ -1,0 +1,14 @@
+{
+  "type": "minecraf:block",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "modtest:cobalt_block"
+        }
+      ]
+    }
+  ]
+}

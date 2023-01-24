@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "modtest:cobalt_ore"
+  },
+  "result": "modtest:cobalt_ingot",
+  "experience": 1.0,
+  "cookingtime": 100
+}

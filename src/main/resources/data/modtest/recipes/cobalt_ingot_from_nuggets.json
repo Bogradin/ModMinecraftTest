@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "modtest:cobalt_nugget"
+    }
+  },
+  "result": {
+    "item": "modtest:cobalt_ingot"
+  }
+}
